@@ -1,0 +1,11 @@
+{
+  "name": "webgl-draw-multiple-things",
+  "version": "1.0.0",
+  "description": "WebGL 2 - Draw multiple objects",
+  "main": "index.js",
+  "author": "Alex Di Guida",
+  "license": "MIT",
+  "scripts": {
+    "server": "python -m SimpleHTTPServer 3088"
+  }
+}
