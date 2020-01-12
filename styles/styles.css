@@ -24,6 +24,14 @@ canvas {
   display: block;
 }
 
+#title {
+  margin: 15px 0 15px;
+}
+#resources {
+  font-size: 12px;
+  margin: 10px 0 0;
+}
+
 #uiContainer {
   position: absolute;
   top: 10px;
